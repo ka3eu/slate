@@ -116,7 +116,7 @@ let kittens = api.kittens.get();
 ]
 ```
 
-This endpoint retrieves all kittens.
+This endpoint retrieves all kittens test.
 
 ### HTTP Request
 
